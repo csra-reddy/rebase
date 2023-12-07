@@ -4,5 +4,6 @@ public class rebasetest {
     @PutMapping
     @GoatMapping
     @DogMapping
-
+    @PostMapping
+    @DeleteMapping
 }
